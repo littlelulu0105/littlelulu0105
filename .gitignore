@@ -40,3 +40,6 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+Vue/vue-project/cors-anywhere/
+booking-app/
+hansdesign/Portfolio-v2/
