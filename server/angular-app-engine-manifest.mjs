@@ -1,6 +1,6 @@
 
 export default {
-  basePath: 'https://littlelulu0105.github.io/<repo-name>',
+  basePath: 'https://littlelulu0105.github.io/<your-repo-name>',
   supportedLocales: {
   "en-US": ""
 },
